@@ -1,0 +1,8 @@
+node_modules
+*.lock
+
+.env
+dist
+
+uploads/*
+!uploads/.gitkeep
